@@ -1,1 +1,4 @@
-add
+node_modules/
+build/
+proofs/
+
